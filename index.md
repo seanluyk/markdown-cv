@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sean Luyk
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sean Luyk
+Digital Projects Librarian
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
