@@ -24,20 +24,10 @@ __B.Mus, McMaster University, Hamilton, ON__
 `2005`
 __Diploma in Music Performance (Percussion), McMaster University, Hamilton, ON__
 
+## Professional Experience
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
+`2011-Present`
+Librarian, *University of Alberta*, Edmonton, AB, Canada
 
 Associate, *French Academy of Science*, Paris, France
 
