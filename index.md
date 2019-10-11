@@ -24,7 +24,7 @@ __B.Mus, McMaster University, Hamilton, ON__
 `2005`
 __Diploma in Music Performance (Percussion), McMaster University, Hamilton, ON__
 
-## Professional Experience
+## Experience
 
 `October 2017-Present`
 Digital Projects Librarian, *University of Alberta*, Edmonton, AB, Canada
@@ -73,6 +73,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2019 -->
 
 
