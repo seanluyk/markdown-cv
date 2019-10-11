@@ -10,25 +10,10 @@ Digital Projects Librarian
 | <a href="https://sites.google.com/a/ualberta.ca/sean-luyk/">My webpage</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010`
+__MLIS, University of Western Ontario, London, ON__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
