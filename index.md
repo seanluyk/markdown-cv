@@ -26,12 +26,17 @@ __Diploma in Music Performance (Percussion), McMaster University, Hamilton, ON__
 
 ## Professional Experience
 
-`2011-Present`
-Librarian, *University of Alberta*, Edmonton, AB, Canada
+`October 2017-Present`
+Digital Projects Librarian, *University of Alberta*, Edmonton, AB, Canada
 
-Associate, *French Academy of Science*, Paris, France
+`August 2018-August 2019`
+Web and Discovery Services Librarian (interim), *University of Alberta*, Edmonton, AB, Canada
 
+`July 2011-October 2017`
+Music Librarian, *University of Alberta*, Edmonton, AB, Canada
 
+`January 2010-July 2011`
+Information Management Assistant, *Legislative Assembly of Ontario*, Toronto, ON, Canada
 
 ## Publications
 
