@@ -6,8 +6,8 @@ title: Sean Luyk
 Digital Projects Librarian
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sean.luyk@ualberta.ca">sean.luyk@ualberta.ca</a>
+| <a href="https://sites.google.com/a/ualberta.ca/sean-luyk/">My webpage</a>
 </div>
 
 
