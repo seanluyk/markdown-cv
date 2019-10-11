@@ -15,8 +15,15 @@ Digital Projects Librarian
 `2010`
 __MLIS, University of Western Ontario, London, ON__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2007`
+__MA (Music Criticism), McMaster University, Hamilton, ON__
+
+`2005`
+__B.Mus, McMaster University, Hamilton, ON__
+
+`2005`
+__Diploma in Music Performance (Percussion), McMaster University, Hamilton, ON__
+
 
 - Sizar
 
