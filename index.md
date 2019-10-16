@@ -42,7 +42,7 @@ Information Management Assistant, *Legislative Assembly of Ontario*, Toronto, ON
 
 A list is also available [online](https://scholar.google.ca/citations?user=CRHZquQAAAAJ&hl=en) -->
 
-### Presentations
+## Presentations
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
