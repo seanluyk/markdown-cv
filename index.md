@@ -40,9 +40,9 @@ Information Management Assistant, *Legislative Assembly of Ontario*, Toronto, ON
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.ca/citations?user=CRHZquQAAAAJ&hl=en) -->
 
-### Journals
+### Presentations
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
