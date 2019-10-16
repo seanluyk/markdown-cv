@@ -40,7 +40,7 @@ Information Management Assistant, *Legislative Assembly of Ontario*, Toronto, ON
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.ca/citations?user=CRHZquQAAAAJ&hl=en) -->
+A list is also available [online](https://scholar.google.ca/citations?user=CRHZquQAAAAJ&hl=en) -->
 
 ### Presentations
 
