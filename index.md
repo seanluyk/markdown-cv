@@ -38,11 +38,24 @@ Music Librarian, *University of Alberta*, Edmonton, AB, Canada
 `January 2010-July 2011`
 Information Management Assistant, *Legislative Assembly of Ontario*, Toronto, ON, Canada
 
+## Research Grants & Awards
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
 ## Publications
 
 A list is also available [online](https://scholar.google.ca/citations?user=CRHZquQAAAAJ&hl=en) -->
 
-## Presentations
+### Peer Reviewed
+
+### Not Peer Reviewed
+
+## Conference Papers & Presentations
+
+### Peer Reviewed
+
+### Invited
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -52,13 +65,7 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Research Grants & Awards
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Workshops & Course Lectures
 
 `1600`
 __Royal Mint__, London
@@ -69,7 +76,7 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
+## Service
 
 <!-- ### Footer
 
