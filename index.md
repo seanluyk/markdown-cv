@@ -24,7 +24,7 @@ __B.Mus, McMaster University, Hamilton, ON__
 `2005`
 __Diploma in Music Performance (Percussion), McMaster University, Hamilton, ON__
 
-## Experience
+## Employment History
 
 `October 2017-Present`
 Digital Projects Librarian, *University of Alberta*, Edmonton, AB, Canada
@@ -52,7 +52,7 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Research Grants & Awards
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
